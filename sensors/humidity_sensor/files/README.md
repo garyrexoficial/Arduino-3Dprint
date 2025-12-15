@@ -12,7 +12,7 @@ Monitor humidity and temperature to ensure proper storage of 3D printing filamen
 
 ## Hardware Setup
 
-![Wiring diagram of DHT11 to Arduino](img/dht11_wiring.png)
+![Wiring diagram of DHT11 to Arduino](../../../docs/img/dht11_wiring.png)
 
 ## 💻 Software Setup
 1. Install the **Arduino IDE**.  
