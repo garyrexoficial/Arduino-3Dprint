@@ -10,6 +10,10 @@ Monitor humidity and temperature to ensure proper storage of 3D printing filamen
    - DATA → Digital pin 2
 2. Verify connections are secure to avoid false readings.
 
+## Hardware Setup
+
+![Wiring diagram of DHT11 to Arduino](../img/dht11_wiring.png)
+
 ## 💻 Software Setup
 1. Install the **Arduino IDE**.  
 2. Add the **DHT library** via the Arduino Library Manager.  
@@ -40,6 +44,10 @@ Monitorear la humedad y temperatura para asegurar un almacenamiento adecuado de 
    - GND → GND
    - DATA → Pin digital 2
 2. Verifica que las conexiones estén firmes para evitar lecturas erróneas.
+
+## Hardware Setup
+
+![Wiring diagram of DHT11 to Arduino](../img/dht11_wiring.png)
 
 ## 💻 Configuración de Software
 1. Instala el **Arduino IDE**.  
