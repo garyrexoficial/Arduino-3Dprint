@@ -47,7 +47,7 @@ Monitorear la humedad y temperatura para asegurar un almacenamiento adecuado de 
 
 ## Hardware Setup
 
-![Wiring diagram of DHT11 to Arduino](../img/dht11_wiring.png)
+![Wiring diagram of DHT11 to Arduino](../../../docs/img/dht11_wiring.png)
 
 ## 💻 Configuración de Software
 1. Instala el **Arduino IDE**.  
