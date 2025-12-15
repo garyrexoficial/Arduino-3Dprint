@@ -11,7 +11,9 @@ It is especially useful for makers working with **3D printing filaments**, since
 
 ## 📊 Thresholds
 - Recommended humidity threshold: **60%**  
-- Above this value, filament should be dried before printing to avoid poor quality results.
+- Above this value, filament should be dried before printing to avoid defects.  
+- Additionally, it is important to **control the humidity of the room** where the printer is located.  
+  Keeping a stable environment helps ensure consistent print quality and prevents issues such as poor layer adhesion or warping.
 
 ## 📂 Files
 - `humidity_dht11.ino` → Arduino sketch for reading humidity and temperature.  
@@ -35,7 +37,9 @@ Es especialmente útil para makers que trabajan con **filamentos de impresión 3
 
 ## 📊 Umbrales
 - Umbral recomendado de humedad: **60%**  
-- Por encima de este valor, se recomienda secar el filamento antes de imprimir para evitar defectos.
+- Por encima de este valor, se recomienda secar el filamento antes de imprimir para evitar defectos.  
+- Además, es importante **controlar la humedad de la habitación** donde se encuentra la impresora.  
+  Mantener un ambiente estable ayuda a garantizar una calidad de impresión constante y evita problemas como mala adhesión entre capas o deformaciones.
 
 ## 📂 Archivos
 - `humidity_dht11.ino` → Sketch de Arduino para leer humedad y temperatura.  
