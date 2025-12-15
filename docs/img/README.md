@@ -18,9 +18,7 @@ To include an image in Markdown files:
 ---
 
 ## 🇪🇸 Versión en Español — `img/README.md`
-```markdown
 # Recursos de Imágenes
-```
 
 Esta carpeta contiene **recursos gráficos** utilizados en diferentes proyectos del repositorio.  
 Su objetivo es centralizar diagramas, fotografías y referencias visuales para la documentación.
