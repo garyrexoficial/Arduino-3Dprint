@@ -22,8 +22,7 @@ Monitor humidity and temperature to ensure proper storage of 3D printing filamen
 2. Add the **DHT library** via the Arduino Library Manager.  
 3. Upload the sketch `humidity_dht11.ino` to your Arduino board.  
 4. Open the Serial Monitor at **9600 baud**.
-
-After uploading the sketch, open the Serial Monitor at **9600 baud**.  
+  
 You should see humidity and temperature readings like this:
 
 ![Screenshot of Serial Monitor with hygrometer readings](../../../docs/img/screenshot_serial_monitor_hygrometer.png)
@@ -66,8 +65,7 @@ Monitorear la humedad y temperatura para asegurar un almacenamiento adecuado de 
 2. Agrega la **librería DHT** desde el Administrador de Librerías de Arduino.  
 3. Sube el sketch `humidity_dht11.ino` a tu placa Arduino.  
 4. Abre el Monitor Serial a **9600 baudios**.
-
-Después de subir el sketch, abre el Monitor Serial a **9600 baudios**.  
+ 
 Deberías ver lecturas de humedad y temperatura como estas:
 
 ![Captura del Monitor Serial con lecturas del higrómetro](../../../docs/img/screenshot_serial_monitor_hygrometer.png)
